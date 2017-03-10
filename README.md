@@ -1,2 +1,3 @@
 # hello-world
-its lit my dudes
+I know what's going on here!
+My name is Ronit and I want to develop websites and templates.
